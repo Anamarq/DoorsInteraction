@@ -15,7 +15,7 @@
     {
       "displayName": "Doors Test Scene",
       "description": "Sample scene demonstrating how to set up door interactions.",
-      "path": "Samples~/DoorsSampleScene"
+      "path": "Samples~"
     }
   ]
 }
