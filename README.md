@@ -106,15 +106,18 @@ The interaction logic is fully separated from the visual models, allowing reuse 
 
 ## Project Structure
 
-com.anamarq.vr.doors/
-├─ Runtime/
-│ ├─ Scripts/
-│ ├─ Prefabs/
-│ └─ Sounds/
-├─ Samples~/
-│ ├─ DoorsSampleScene/
-│ └─ Models/
-└─ package.json
+com.anamarq.vr.doors/\
+├─ Runtime/\
+│ ├─ Scripts/\
+│ ├─ Prefabs/\
+│ └─ Audio/\
+├─ Samples~/\
+│ └─ TestScene/\
+│ ├─ Scenes/\
+│ └─ Models/\
+├─ Documentation~\
+├─ package.json\
+└─ README.md
 
 ---
 
