@@ -110,14 +110,11 @@ com.anamarq.vr.doors/\
 ├─ Runtime/\
 │ ├─ Scripts/\
 │ ├─ Prefabs/\
-│ └─ Audio/\
+│ └─ Sounds/\
 ├─ Samples~/\
-│ └─ TestScene/\
 │ ├─ Scenes/\
 │ └─ Models/\
-├─ Documentation~\
-├─ package.json\
-└─ README.md
+└─ package.json
 
 ---
 
